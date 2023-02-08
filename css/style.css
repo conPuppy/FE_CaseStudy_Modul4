@@ -8055,7 +8055,7 @@ h1, h2, h3, h4, h5,
     position: relative;
     top: 0; }
   .ftco-navbar-light .navbar-brand {
-    color: #82ae46; }
+    color: #fbada9; }
     .ftco-navbar-light .navbar-brand:hover, .ftco-navbar-light .navbar-brand:focus {
       color: #000000; }
     @media (max-width: 991.98px) {
@@ -9171,7 +9171,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #82ae46 !important; }
+  background: #fbada9 !important; }
 
 .bg-black {
   background: #000000 !important; }
